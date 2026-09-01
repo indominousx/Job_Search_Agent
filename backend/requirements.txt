@@ -1,0 +1,17 @@
+fastapi>=0.115.0
+uvicorn>=0.31.0
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+SQLAlchemy>=2.0.30
+alembic>=1.13.3
+psycopg[binary,pool]
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart>=0.0.10
+langgraph>=0.2.0
+langchain-core>=0.3.0
+pypdf>=5.0.0
+python-docx>=1.1.0
+langchain-google-genai>=1.0.8
+langchain-groq>=0.1.9
+langgraph-checkpoint-postgres>=2.0.0
